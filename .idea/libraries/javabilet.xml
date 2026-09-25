@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javabilet">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/javabilet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
